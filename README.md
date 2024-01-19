@@ -11,7 +11,7 @@ Welcome to the MS Dhoni Tribute Page! This web project is a humble tribute to th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ms-dhoni-tribute.git
+    git clone https://github.com/SaiPrajoth/TributePage.git
     ```
 
 2. Open `index.html` in a web browser to explore the tribute page.
